@@ -48,7 +48,7 @@ This project visualizes medical examination data using Python, Pandas, Seaborn, 
 2. Create a virtual environment (recommended):
    ```bash
    python -m venv venv
-   venv\Scripts\Activate.bin
+   venv\Scripts\Activate.bat
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
